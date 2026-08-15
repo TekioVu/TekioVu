@@ -11,7 +11,7 @@ Psychological horror game about uncovering the truth behind a missing professor.
 `Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/what-remains)
 
 ### 🃏 Conquerors of Fate
-Medieval fantasy deck-building card game focused on strategy and card synergies.
+Online multiplayer medieval fantasy deck-building card game focused on strategy and card synergies.
 
 `Unity · C# · Photon PUN 2` · [Play on itch.io](https://tekiovu.itch.io/conquerors-of-fate)
 
