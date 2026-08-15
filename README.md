@@ -1,7 +1,6 @@
 # Hi! 👋 I'm TekioVu
 
 I'm a Video Game Development student passionate about creating games with Unity and C#. Here you'll find my personal projects, university work, and games developed during game jams.
----
 
 ## 🎮 Projects
 
