@@ -4,17 +4,10 @@ I'm a Video Game Development student passionate about creating games with Unity 
 
 ## 🎮 Projects
 
-### ❓ What Remains
-`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/what-remains)
-
-### 🃏 Conquerors of Fate
-`Unity · C# · Photon PUN 2` · [Play on itch.io](https://tekiovu.itch.io/conquerors-of-fate)
-
-### 🚢 The Last Vessel
-`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/the-last-vessel)
-
-### 🫧 Bubble Breakers
-`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/bubble-breakers)
+What Remains	Unity · C#	itch.io
+Conquerors of Fate	Unity · C# · Photon PUN 2	itch.io
+The Last Vessel	Unity · C#	itch.io
+Bubble Breakers	Unity · C#	itch.io
 
 ## 🕹️ Game Jams
 
