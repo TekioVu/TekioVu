@@ -18,14 +18,9 @@ I'm a Video Game Development student passionate about creating games with Unity 
 
 ## 🛠️ Technologies
 
-**Languages**  
-`C#` `C++` `JavaScript`
-
-**Engine & Frameworks**  
-`Unity` `SDL` `Photon PUN 2`
-
-**Tools**  
-`Git` `Blender` `Audacity` `GIMP`
+**Languages** `C#` `C++` `JavaScript`
+**Game Development** `Unity` `SDL` `Photon PUN 2`
+**Tools** `Git` `Blender` `Audacity` `GIMP`
 
 
 ## 📫 Contact
