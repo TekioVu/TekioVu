@@ -24,7 +24,6 @@ Fast-paced arcade game inspired by classic bubble-popping games.
 
 `Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/bubble-breakers)
 
----
 
 ## 🕹️ Game Jams
 
@@ -38,13 +37,11 @@ Survival game set in the African savannah, where you play as a gazelle trying to
 
 `Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/the-migration)
 
----
 
 ## 🛠️ Technologies
 
 **Unity · C# · C++ · JavaScript · SDL · Photon PUN 2 · Git · Blender · Audacity · Gimp**
 
----
 
 ## 📫 Contact
 
