@@ -67,6 +67,7 @@ A survival game set in the African savannah, where you play as a gazelle trying 
 * Unity
 * C#
 * C++
+* JavaScript
 * SDL
 
 **Multiplayer**
@@ -78,6 +79,8 @@ A survival game set in the African savannah, where you play as a gazelle trying 
 * Git & GitHub
 * Visual Studio
 * Blender
+* Audacity
+* Gimp
 
 ---
 
