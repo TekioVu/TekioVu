@@ -4,18 +4,15 @@ I'm a Video Game Development student passionate about creating games with Unity 
 
 ## 🎮 Projects
 
-What Remains	Unity · C#	itch.io
-Conquerors of Fate	Unity · C# · Photon PUN 2	itch.io
-The Last Vessel	Unity · C#	itch.io
-Bubble Breakers	Unity · C#	itch.io
+- ❓ **What Remains** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/what-remains)
+- 🃏 **Conquerors of Fate** · `Unity · C# · Photon PUN 2` · [Itch.io →](https://tekiovu.itch.io/conquerors-of-fate)
+- 🚢 **The Last Vessel** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/the-last-vessel)
+- 🫧 **Bubble Breakers** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/bubble-breakers)
 
 ## 🕹️ Game Jams
 
-### ⚔️ Dopamine Warrior
-`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/dopamina-warrior)
-
-### 🦌 The Migration
-`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/the-migration)
+- ⚔️ **Dopamine Warrior** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/dopamina-warrior)
+- 🦌 **The Migration** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/the-migration)
 
 
 ## 🛠️ Technologies
