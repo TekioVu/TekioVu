@@ -1,7 +1,5 @@
 # Hi! 👋 I'm TekioVu
 
-🎮 **Video Game Development Student**
-
 I'm a Video Game Development student interested in creating games and learning more about game development. Here you'll find some of my personal projects, university projects, and games created during game jams.
 
 ---
