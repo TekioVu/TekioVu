@@ -1,6 +1,6 @@
 # Hi! 👋 I'm TekioVu
 
-I'm a Video Game Development student passionate about creating games with Unity and C#. Here you'll find my personal projects, university work, and games developed during game jams.
+## I'm a Video Game Development student passionate about creating games with Unity and C#. Here you'll find my personal projects, university work, and games developed during game jams.
 ---
 
 ## 🎮 Projects
@@ -11,7 +11,7 @@ Psychological horror game about uncovering the truth behind a missing professor.
 `Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/what-remains)
 
 ### 🃏 Conquerors of Fate
-Online multiplayer medieval fantasy deck-building card game focused on strategy and card synergies.
+Multiplayer medieval fantasy deck-building card game focused on strategy and card synergies.
 
 `Unity · C# · Photon PUN 2` · [Play on itch.io](https://tekiovu.itch.io/conquerors-of-fate)
 
