@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Tekivu
+# Hi! 👋 I'm TekioVu
 
 🎮 **Video Game Development Student**
 
@@ -99,9 +99,8 @@ I'm continuously working on improving my skills in:
 
 Feel free to check out my projects and get in touch!
 
-* 🎮 [Itch.io](#)
-* 💼 [LinkedIn](#)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🎮 [Itch.io](https://tekiovu.itch.io)
+* 📧 Email: [sevalien@ucm.es](mailto:sevalien@ucm.es)
 
 ---
 
