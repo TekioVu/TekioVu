@@ -40,7 +40,7 @@ Survival game set in the African savannah, where you play as a gazelle trying to
 
 ## 🛠️ Technologies
 
-**Unity · C# · C++ · JavaScript · SDL · Photon PUN 2 · Git · Blender · Audacity · Gimp**
+**Unity · C# · C++ · JavaScript · SDL · Photon PUN 2 · Git · Blender · Audacity · GIMP**
 
 
 ## 📫 Contact
