@@ -3,95 +3,47 @@
 I'm a Video Game Development student passionate about creating games with Unity and C#. Here you'll find my personal projects, university work, and games developed during game jams.
 ---
 
-## 🎮 Featured Projects
+## 🎮 Projects
 
 ### ❓ What Remains
+Psychological horror game about uncovering the truth behind a missing professor.
 
-Uncover the truth behind a missing professor in this atmospheric psychological horror.
-
-**Built with:** Unity · C# 
-
-[View Project →](https://tekiovu.itch.io/what-remains)
+`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/what-remains)
 
 ### 🃏 Conquerors of Fate
+Medieval fantasy deck-building card game focused on strategy and card synergies.
 
-A medieval fantasy deck-building card game focused on strategy and card synergies.
-
-**Built with:** Unity · C# · Photon PUN 2
-
-[View Project →](https://tekiovu.itch.io/conquerors-of-fate)
+`Unity · C# · Photon PUN 2` · [Play on itch.io](https://tekiovu.itch.io/conquerors-of-fate)
 
 ### 🚢 The Last Vessel
+Survival adventure where you must capture animal pairs and return to the Ark before the great flood.
 
-Capture animal pairs and return to the Ark before the great flood in this survival adventure.
-
-**Built with:** Unity · C#
-
-[View Project →](https://tekiovu.itch.io/the-last-vessel)
-
+`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/the-last-vessel)
 
 ### 🫧 Bubble Breakers
+Fast-paced arcade game inspired by classic bubble-popping games.
 
-A fast-paced arcade game inspired by classic bubble-popping games.
-
-**Built with:** Unity · C#
-
-[View Project →](https://tekiovu.itch.io/bubble-breakers)
-
-
-## 🕹️ Game Jams
-
-I also enjoy participating in game jams, where I can experiment with new ideas and develop games under time constraints.
-
-### ⚔️ Dopamine Warrior
-
-A local multiplayer fighting game focused on fast-paced combat.
-
-**Built with:** Unity · C#
-
-[View Project →](https://tekiovu.itch.io/dopamina-warrior)
-
-### 🦌 The Migration
-
-A survival game set in the African savannah, where you play as a gazelle trying to survive the changing seasons.
-
-**Built with:** Unity · C#
-
-[View Project →](https://tekiovu.itch.io/the-migration)
-
-## 🛠️ Technologies & Tools
-
-**Game Development**
-
-* Unity
-* C#
-* C++
-* JavaScript
-* SDL
-
-**Multiplayer**
-
-* Photon PUN 2
-
-**Tools**
-
-* Git & GitHub
-* Visual Studio
-* Blender
-* Audacity
-* Gimp
+`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/bubble-breakers)
 
 ---
 
-## 📚 Currently Learning
+## 🕹️ Game Jams
 
-I'm continuously working on improving my skills in:
+### ⚔️ Dopamine Warrior
+Local multiplayer fighting game focused on fast-paced combat.
 
-* 🎮 Gameplay programming
-* 🧠 Game systems & mechanics
-* 🌐 Multiplayer development
-* 🎨 Game development workflows
-* ⚙️ Optimization and performance
+`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/dopamina-warrior)
+
+### 🦌 The Migration
+Survival game set in the African savannah, where you play as a gazelle trying to survive the changing seasons.
+
+`Unity · C#` · [Play on itch.io](https://tekiovu.itch.io/the-migration)
+
+---
+
+## 🛠️ Technologies
+
+**Unity · C# · C++ · JavaScript · SDL · Photon PUN 2 · Git · Blender · Audacity · Gimp**
 
 ---
 
