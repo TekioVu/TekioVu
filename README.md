@@ -4,7 +4,7 @@ I'm a Video Game Development student passionate about creating games with Unity 
 
 ## 🎮 Projects
 
-- 🏰 **Dungeons & Dungeons?** · `Unity · C# · Team Project` · [GitHub →](https://github.com/UCM-FDI-DISIA/Papaya)
+- 🏰 **Dungeons & Dungeons?** · `C++ · Godot · JavaScript` · [GitHub →](https://github.com/UCM-FDI-DISIA/Papaya)
 - ❓ **What Remains** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/what-remains)
 - 🃏 **Conquerors of Fate** · `Unity · C# · Photon PUN 2` · [Itch.io →](https://tekiovu.itch.io/conquerors-of-fate)
 - 🚢 **The Last Vessel** · `Unity · C# · Team Project` · [Itch.io →](https://tekiovu.itch.io/the-last-vessel)
