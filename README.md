@@ -4,16 +4,16 @@ I'm a Video Game Development student passionate about creating games with Unity 
 
 ## 🎮 Projects
 
-- 🏰 **Dungeons & Dungeons?** · `C++ · Team Project` · [GitHub →](https://github.com/UCM-FDI-DISIA/Papaya)
-- ❓ **What Remains** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/what-remains)
-- 🃏 **Conquerors of Fate** · `Unity · C# · Photon PUN 2` · [Itch.io →](https://tekiovu.itch.io/conquerors-of-fate)
-- 🚢 **The Last Vessel** · `Unity · C# · Team Project` · [Itch.io →](https://tekiovu.itch.io/the-last-vessel)
-- 🫧 **Bubble Breakers** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/bubble-breakers)
+- **Dungeons & Dungeons?** · `C++ · Team Project` · [GitHub →](https://github.com/UCM-FDI-DISIA/Papaya)
+- **What Remains** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/what-remains)
+- **Conquerors of Fate** · `Unity · C# · Photon PUN 2` · [Itch.io →](https://tekiovu.itch.io/conquerors-of-fate)
+- **The Last Vessel** · `Unity · C# · Team Project` · [Itch.io →](https://tekiovu.itch.io/the-last-vessel)
+- **Bubble Breakers** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/bubble-breakers)
 
 ## 🕹️ Game Jams
 
-- ⚔️ **Dopamine Warrior** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/dopamina-warrior)
-- 🦌 **The Migration** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/the-migration)
+- **Dopamine Warrior** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/dopamina-warrior)
+- **The Migration** · `Unity · C#` · [Itch.io →](https://tekiovu.itch.io/the-migration)
 
 
 ## 🛠️ Technologies
@@ -29,5 +29,3 @@ Feel free to check out my projects and get in touch!
 * 📧 Email: [sevalien@ucm.es](mailto:sevalien@ucm.es)
 
 ---
-
-### Thanks for checking out my projects! 🎮
